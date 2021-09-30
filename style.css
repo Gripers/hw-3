@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    margin: 10px 0px 0px 100px;
+    border: 1px solid aqua;
+    border-radius: 5%;
+    width: 150px;
+    height: 150px;
+}
+
+.card-head {
+    color: rgb(66, 14, 187);
+    font-family: sans-serif;
+    background-color: aqua;
+    border-bottom: 1px solid aqua;
+    text-align: center;
+    padding: 10px;
+}
+
+.card-body {
+    color: rgb(66, 14, 187);
+    padding: 30px;
+    text-align: center;
+}
+
+.card2 {
+    margin: 5px 0px 0px 100px;
+    border: 1px solid aqua;
+    border-radius: 5%;
+    width: 150px;
+    height: 150px;
+}
+
+.card-head2 {
+    color: rgb(66, 14, 187);
+    font-family: sans-serif;
+    background-color: aqua;
+    border-bottom: 1px solid aqua;
+    text-align: center;
+    padding: 10px;
+}
+
+.card-body2 {
+    color: rgb(66, 14, 187);
+    padding: 30px;
+    text-align: center;
+}
+
+.card3 {
+    margin: 5px 0px 0px 100px;
+    border: 1px solid aqua;
+    border-radius: 5%;
+    width: 150px;
+    height: 150px;
+}
+
+.translate-card {
+    color: rgb(66, 14, 187);
+    font-family: sans-serif;
+    background-color: aqua;
+    border-bottom: 1px solid aqua;
+    text-align: center;
+    padding: 10px;
+}
+
+.card-body3 {
+    color: rgb(66, 14, 187);
+    padding: 30px;
+    text-align: center;
+}
+
+.card4 {
+    margin: 5px 0px 0px 100px;
+    border: 1px solid yellow;
+    border-radius: 5%;
+    width: 150px;
+    height: 150px;
+}
+
+.transport-card {
+    border-bottom: 1px solid yellow;
+    background-color: yellow;
+    padding: 10px;
+    text-align: center;
+    color: goldenrod;
+    font-family: sans-serif;
+}
+
+.transport-speed {
+    color: goldenrod;
+    padding: 30px;
+    text-align: center;
+}
+
+.card5 {
+    margin: 5px 0px 0px 100px;
+    border: 1px solid yellow;
+    border-radius: 5%;
+    width: 150px;
+    height: 150px;
+}
+
+.transport-card2 {
+    border-bottom: 1px solid yellow;
+    background-color: yellow;
+    padding: 10px;
+    text-align: center;
+    color: goldenrod;
+    font-family: sans-serif;
+}
+
+.transport-speed2 {
+    color: goldenrod;
+    padding: 30px;
+    text-align: center;
+}
+
+.card6 {
+    margin: 5px 0px 0px 100px;
+    border: 1px solid yellow;
+    border-radius: 5%;
+    width: 150px;
+    height: 150px;
+}
+
+.transport-card3 {
+    border-bottom: 1px solid yellow;
+    background-color: yellow;
+    padding: 10px;
+    text-align: center;
+    color: goldenrod;
+    font-family: sans-serif;
+}
+
+.transport-speed3 {
+    color: goldenrod;
+    padding: 30px;
+    text-align: center;
+}
